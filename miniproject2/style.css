@@ -126,7 +126,8 @@ img {
     overflow: hidden;
   }
   nav li {
-  margin: 10px 10px;
+  display: inline-block;
+  margin: 10px 5px;
   }
   .content {
     width: 100%;
