@@ -125,6 +125,9 @@ img {
   * {
     overflow: hidden;
   }
+  nav li {
+  margin: 10px 10px;
+  }
   .content {
     width: 100%;
     text-align: center;
@@ -140,5 +143,6 @@ img {
     bottom: -5px;
     display: flex;
     justify-content: center;
+    overflow: hidden;
   }
 }
